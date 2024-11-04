@@ -86,7 +86,7 @@ ACCOUNT_DELAY=121
 1. 克隆或下载项目
 2. 安装所需依赖：
 ```bash
-pip install requests python-dotenv colorama
+pip install requests python-dotenv colorama urllib3
 ```
 3. 创建并配置 `.env` 和 `accounts.json` 文件
 4. 运行脚本：
