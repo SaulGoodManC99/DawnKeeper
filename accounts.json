@@ -1,0 +1,12 @@
+{
+    "account1": {
+        "email": "example@mail.com",
+        "token": "token",
+        "proxy": "http://proxy2:port"
+    },
+    "account2": {
+        "email": "example@gmail.com",
+        "token": "token",
+        "proxy": "http://proxy2:port"
+    }
+} 
